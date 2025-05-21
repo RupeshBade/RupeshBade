@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rupesh Fata Bade
+# 👋 Hi, I'm Rupesh Bade
 
 🎓 **Undergraduate Student | BCA**  
 🏫 **Kathford International College of Engineering and Management**  
