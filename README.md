@@ -8,21 +8,21 @@
 
 ## 🚀 About Me
 
-I'm a passionate and dedicated BCA student with a keen interest in software development, web technologies, and learning new tools and frameworks. I love building projects that solve real-world problems and help me grow as a developer.
-
+BCA student with a strong interest in data analytics, currently learning Python, SQL, and Power BI. Familiar with working on academic and personal projects involving data handling and basic visualization. Eager to apply analytical thinking, learn new tools, and grow in a data-focused role. Strong team player with good communication and problem-solving skills.
 ---
 
 ## 🛠️ Skills
 
-- 💻 **Languages:** PHP, JavaScript, Python, C, C++
-- 🌐 **Web Technologies:** HTML5, CSS3, Bootstrap, Tailwind, Laravel
+- 💻 **Languages:** PHP, JavaScript, Python,React
+- 🌐 **Web Technologies:** HTML, CSS
 - 🗄️ **Databases:** PostgreSQL, MySQL
-- 🧰 **Tools:** Git, GitHub, VS Code, Figma
+- 🧰 **Tools:**  PowerBI, Excel, GitHub, VS Code, Figma
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced PHP and Laravel
-- React.js for modern front-end development
-- Backend integrations and API development
+- Python 
+- MySQL
+
+
